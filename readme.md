@@ -1,1 +1,3 @@
-# Hola esto es un README
+# Repositorio 03
+
+Mi primer ejercicio con ramas.
