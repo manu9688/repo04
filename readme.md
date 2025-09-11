@@ -14,3 +14,9 @@ Listas numeradas:
 1. Primer paso
 2. Segundo paso
 3. Tercer paso
+
+
+> Esto es una cita destacada.
+
+[Enlace a Google](https://www.google.com)
+
